@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vcodesinfinity
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning Dart with Flutter framework
-- 💞️ I’m looking to collaborate on flutter, Kotlin and Adhoc networks
+- 🌱 I’m currently rewiring/rebuilding
 - 📫 How to reach me ... vinaykumartn1122@gmail.com
 
 <!---
